@@ -1,0 +1,5 @@
+Case ID,Patient,Country,Product,Dose,Route,Indication,Reported Event,Coding Term,Onset,Outcome,Seriousness,Expectedness,Concomitant Information,Missing Information
+PV-101,Female (34 years old),India,Velunex,Not reported,Not reported,Not reported,Nausea,Nausea,3 hours,Recovered,Non-serious,Expected,No concomitant medication reported,Reporter details. Dose, Route and Indication not reported.
+PV-102,Male (61 years old),India,Velunex,Not reported,Not reported,Not reported,Loss of consciousness,Loss of consciousness,2 days,Recovering,Serious - Admission to hospital,Unexpected,Concomitant medication not known,Reporter details. Clinical diagnosis and investigations not reported.
+PV-103,Female (27 years old),United Kingdom,Velunex,Not reported,Not reported,Not reported,Mild rash,Rash,4 days,Recovered,Non-serious,Expected,No rechallenge,Reporter details. Rash details and treatment not reported.
+PV-104,Not reported,India,Velunex,Not reported,Not reported,Not reported,Appendicitis,Appendicitis,3 weeks,Recovered,Serious - Hospitalisation,Unexpected,Incomplete medical history,Patient and reporter details. Diagnostic findings and treatment not reported.
