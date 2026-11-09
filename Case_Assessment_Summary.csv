@@ -1,0 +1,5 @@
+Case ID,Reported Event,Onset,Outcome,Seriousness Criterion,WHO-UMC Causality,Seriousness,Severity,Expectedness,Expectedness Reason,Missing Information
+PV-201,Dizziness,2 hours after first use,Resolved same day,No hospitalisation or treatment,Possible,Non-serious,Not specified,Expected,Dizziness listed in reference,Medical history and concomitant medicines
+PV-202,Appendicitis,3 weeks after first use,Not specified,Hospitalisation,Possible,Serious,Not specified,Unexpected,Appendicitis not listed in reference,Complete medical history and investigation results
+PV-203,Mild rash,Day 4,Improved after stopping product,No serious criterion reported,Possible,Non-serious,Mild,Expected,Mild self-limiting rash listed in reference,Allergy history and rash description
+PV-204,Loss of consciousness,Day 2,Not specified,Emergency admission,Possible,Serious,Not specified,Unexpected,Loss of consciousness not listed in reference,Test results and concomitant products
